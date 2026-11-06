@@ -1,0 +1,14 @@
+metric,lower,upper
+total_emissions,0,200
+carbon_intensity,0,0.001
+renewable_pct,0,100
+water_m3,0,5000
+recycling_pct,0,100
+female_pct,0,100
+male_pct,0,100
+turnover_pct,0,20
+training_hours,0,1000
+safety_incidents,0,10
+board_independence_pct,0,100
+audit_resolution_pct,0,100
+compliance_incidents,0,10

@@ -1,0 +1,4 @@
+industry,carbon_intensity,renewable_pct,water_m3,recycling_pct,female_pct,turnover_pct,board_independence_pct,source
+Manufacturing,0.00006,36,1800,61,34,12,67,Illustrative synthetic benchmark
+IT Services,0.000035,48,800,70,42,15,70,Illustrative synthetic benchmark
+Infrastructure,0.00008,29,2400,55,30,11,65,Illustrative synthetic benchmark
